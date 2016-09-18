@@ -1,6 +1,6 @@
 # Angular2WebpackToh
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.14.
+This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.14. It's based in the official [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) tutorial and in [this version](https://github.com/johnpapa/angular2-tour-of-heroes) using Webpack, from John Papa.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
